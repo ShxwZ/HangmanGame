@@ -1,6 +1,6 @@
 # Hangman Game - Java Console ☕
-#### Hello world! ^_^ This is the typical game of hangman game, but in Java.
-#### You can configure the whole game before starting it!
+#### Hello world! ^_^ This is the typical game of hangman game, but in Java 💻
+#### You can configure the whole game before starting it! 🔧
 #### Message language: Spanish
 #### Methods commented in English
 
