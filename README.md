@@ -4,7 +4,6 @@
 #### Message language: Spanish
 #### Methods commented in English
 
----
 ## Features ⚙
 - Set the word at startup or restart the game
 - Set number of players
@@ -15,7 +14,6 @@
 - The game only allows letters from [A-Z], including Ñ and spaces
 - When win or lose, you can start a new game
 
----
 ## Do you want to take a look? 👀 ⬇
 
 ### Configure example:
