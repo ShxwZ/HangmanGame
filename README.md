@@ -16,13 +16,13 @@
 
 ## Do you want to take a look? 👀 ⬇
 
-### Configure example:
+### 🔧 Configure example:
 ![](https://github.com/ShxwZ/HangmanGame/blob/master/readmeResources/configureGame.gif)
-### Try a letter example:
+### ⌨ Try a letter example:
 ![](https://github.com/ShxwZ/HangmanGame/blob/master/readmeResources/tryLetters.gif)
-### Fail a letter or word example:
+### ❌ Fail a letter or word example:
 ![](https://github.com/ShxwZ/HangmanGame/blob/master/readmeResources/failLetterNWord.gif)
-### Win game example:
+### ✔ Win game example:
 ![](https://github.com/ShxwZ/HangmanGame/blob/master/readmeResources/winGame.gif)
-### Lose game example:
+### ☠ Lose game example:
 ![](https://github.com/ShxwZ/HangmanGame/blob/master/readmeResources/losseGame.gif)
