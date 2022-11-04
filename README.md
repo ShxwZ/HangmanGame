@@ -14,6 +14,11 @@
 - The game only allows letters from [A-Z], including Ñ and spaces
 - When win or lose, you can start a new game
 
+## Clone with git 📎
+```
+git clone https://github.com/ShxwZ/HangmanGame.git
+```
+
 ## Do you want to take a look? 👀 ⬇
 
 ### 🔧 Configure example:
